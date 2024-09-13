@@ -1,7 +1,7 @@
 name: swipe_tab_controller
 description: "A flutter package that handles the swipe for the TabBarView, this moves to the other without too much delay"
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: "https://github.com/SHAH-JI/swipe_tab_controller"
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
@@ -17,3 +17,4 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 flutter:
+
